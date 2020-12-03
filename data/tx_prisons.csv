@@ -1,0 +1,301 @@
+"","lon","lat","NAME","type","inmates"
+"1",-95.8037646,31.8909606,"Montalba-Tennessee Colony CCD","state_pris",11854
+"2",-95.3887412,29.8014132,"Houston CCD","local_jail",9667
+"3",-97.701935,31.4329075,"Gatesville CCD","state_pris",8082
+"4",-95.4888756,29.2401918,"Angleton CCD","state_pris",7339
+"5",-95.6655801,30.7050371,"Huntsville CCD","state_pris",7232
+"6",-97.6847383,28.4270428,"Beeville CCD","state_pris",7073
+"7",-96.6883192,32.8294489,"Northeast Dallas CCD","local_jail",6380
+"8",-101.7919801,35.2351324,"Amarillo CCD","state_pris",5298
+"9",-95.4785202,30.8598617,"Riverside CCD","state_pris",5267
+"10",-94.1579492,29.928096,"LaBelle CCD","fed_pris",4772
+"11",-99.8613872,32.5915678,"Hawley-Noodle CCD","state_pris",4590
+"12",-98.511387,29.4149437,"San Antonio Central CCD","local_jail",4140
+"13",-94.7814649,30.0001881,"Liberty-Dayton CCD","state_pris",3951
+"14",-98.5500206,33.9290734,"Wichita Falls CCD","state_pris",3627
+"15",-95.3887412,29.8014132,"Houston CCD","state_pris",3317
+"16",-97.3856388,32.7534125,"Fort Worth CCD","fed_pris",3247
+"17",-93.9591808,29.9439502,"Port Arthur CCD","state_pris",3226
+"18",-97.8418468,28.7694048,"Kenedy CCD","state_pris",2846
+"19",-94.8361971,30.7204527,"Livingston-Onalaska CCD","state_pris",2843
+"20",-94.1579492,29.928096,"LaBelle CCD","state_pris",2819
+"21",-94.4533716,33.4781144,"New Boston CCD","state_pris",2759
+"22",-95.9658155,30.3482134,"Navasota CCD","state_pris",2736
+"23",-98.1378941,26.3460448,"Edinburg CCD","state_pris",2512
+"24",-95.5193638,31.1033091,"Lovelady CCD","state_pris",2436
+"25",-95.744105,31.0188802,"Midway CCD","state_pris",2355
+"26",-101.4544945,32.1734119,"Big Spring CCD","fed_pris",2288
+"27",-100.851471,32.4152718,"Colorado City CCD","state_pris",2275
+"28",-96.6883192,32.8294489,"Northeast Dallas CCD","state_pris",2214
+"29",-98.7403555,29.3920668,"San Antonio West CCD","state_pris",2109
+"30",-101.9596293,32.7394955,"Lamesa CCD","state_pris",2060
+"31",-96.1967636,33.5543462,"Bonham CCD","state_pris",2030
+"32",-96.876343,32.6984258,"Southwest Dallas CCD","state_pris",2024
+"33",-94.798858,32.1723323,"Henderson CCD","state_pris",1969
+"34",-97.6912697,30.2395128,"Austin CCD","local_jail",1965
+"35",-102.7986785,30.6781932,"Fort Stockton CCD","state_pris",1956
+"36",-101.7856441,34.1955342,"Plainview CCD","state_pris",1937
+"37",-106.528069,31.948886,"El Paso Northwest CCD","fed_pris",1928
+"38",-101.1985034,33.1514982,"Post East CCD","fed_pris",1920
+"39",-106.115001,31.6740541,"El Paso East CCD","local_jail",1915
+"40",-99.0910375,29.3857818,"Hondo CCD","state_pris",1818
+"41",-96.6883192,32.8294489,"Northeast Dallas CCD","fed_pris",1781
+"42",-94.4375853,30.7627788,"Woodville CCD","state_pris",1737
+"43",-94.1229613,33.4715695,"Texarkana CCD","fed_pris",1671
+"44",-95.6543612,29.6188483,"Sugar Land CCD","state_pris",1659
+"45",-97.3856388,32.7534125,"Fort Worth CCD","local_jail",1498
+"46",-97.2201437,30.1756504,"Bastrop CCD","fed_pris",1492
+"47",-95.1931185,31.7970129,"Rusk CCD","state_pris",1433
+"48",-95.6543612,29.6188483,"Sugar Land CCD","fed_pris",1412
+"49",-102.7082657,35.8696213,"Dalhart CCD","state_pris",1333
+"50",-97.1911697,29.0933065,"Cuero CCD","state_pris",1330
+"51",-96.2466015,31.5977027,"Teague CCD","state_pris",1327
+"52",-100.2044841,34.4360735,"Childress CCD","state_pris",1326
+"53",-96.8740385,31.3409711,"Marlin CCD","state_pris",1324
+"54",-100.8530504,32.8059799,"Snyder CCD","state_pris",1296
+"55",-97.4381222,27.7017677,"Corpus Christi CCD","local_jail",1280
+"56",-99.2685984,28.7244583,"Dilley CCD","state_pris",1253
+"57",-97.1514383,33.2436015,"Denton CCD","local_jail",1147
+"58",-97.1563815,31.5247791,"Waco CCD","local_jail",1138
+"59",-95.6074474,31.7623956,"Palestine CCD","state_pris",1133
+"60",-95.6434597,29.0755364,"Brazoria-West Columbia CCD","state_pris",1122
+"61",-97.6912697,30.2395128,"Austin CCD","state_pris",1105
+"62",-94.7388522,31.1748608,"Diboll CCD","state_pris",1101
+"63",-106.115001,31.6740541,"El Paso East CCD","state_pris",1087
+"64",-96.4743401,30.6579993,"West Brazos CCD","state_pris",1068
+"65",-97.7669337,26.4853404,"Raymondville CCD","state_pris",1067
+"66",-97.4310089,30.7286868,"Granger CCD","state_pris",1061
+"67",-97.7185635,30.5932293,"Round Rock-Georgetown CCD","local_jail",1047
+"68",-97.1809192,32.448375,"Alvarado CCD","state_pris",1042
+"69",-98.1569667,33.2988863,"Jacksboro CCD","state_pris",1033
+"70",-96.7260786,33.1749489,"McKinney CCD","local_jail",1015
+"71",-94.8948647,29.2287059,"Galveston CCD","local_jail",1002
+"72",-97.6233928,29.9104988,"Lockhart CCD","state_pris",1000
+"73",-95.738133,29.5021791,"Rosenberg-Richmond CCD","local_jail",997
+"74",-100.7708392,35.4298633,"Lefors CCD","state_pris",978
+"75",-98.1544769,28.5194497,"Three Rivers CCD","fed_pris",967
+"76",-95.4307023,30.6159843,"New Waverly CCD","state_pris",955
+"77",-95.3388114,30.2218532,"Southeast Montgomery CCD","local_jail",938
+"78",-101.8866894,33.5760512,"Lubbock CCD","state_pris",919
+"79",-93.9591808,29.9439502,"Port Arthur CCD","local_jail",871
+"80",-96.612243,31.5326353,"Groesbeck CCD","local_jail",863
+"81",-102.3350117,33.1083848,"Brownfield CCD","state_pris",858
+"82",-96.3469976,30.6458811,"Bryan-College Station CCD","fed_pris",824
+"83",-95.4888756,29.2401918,"Angleton CCD","local_jail",810
+"84",-94.1229613,33.4715695,"Texarkana CCD","local_jail",799
+"85",-97.9523247,26.3046088,"Edcouch-Elsa CCD","local_jail",783
+"86",-97.8086801,33.2065698,"Bridgeport CCD","state_pris",746
+"87",-101.8866894,33.5760512,"Lubbock CCD","local_jail",738
+"88",-95.3289339,32.382619,"Tyler CCD","local_jail",737
+"89",-94.7716329,32.5062336,"Longview CCD","local_jail",708
+"90",-97.7669337,26.4853404,"Raymondville CCD","local_jail",700
+"91",-97.4702914,31.0481201,"Belton CCD","local_jail",677
+"92",-93.7135949,30.8143284,"Newton CCD","local_jail",666
+"93",-98.6468587,26.5985884,"Rio Grande City CCD","local_jail",607
+"94",-94.0562518,30.9726344,"Jasper CCD","state_pris",595
+"95",-96.8740385,31.3409711,"Marlin CCD","local_jail",590
+"96",-99.0735686,28.4216126,"Cotulla CCD","state_pris",580
+"97",-101.7536489,34.5542087,"Tulia CCD","state_pris",578
+"98",-98.7854292,31.0693309,"San Saba CCD","state_pris",575
+"99",-98.5500206,33.9290734,"Wichita Falls CCD","local_jail",553
+"100",-97.3856388,32.7534125,"Fort Worth CCD","state_pris",549
+"101",-102.367621,31.9276128,"Odessa CCD","local_jail",533
+"102",-94.9682664,30.2917875,"Cleveland CCD","state_pris",525
+"103",-98.3460839,27.8873624,"San Diego CCD","state_pris",514
+"104",-94.9137477,32.2750691,"Overton CCD","state_pris",500
+"105",-98.8234128,32.8477997,"Breckenridge North CCD","state_pris",486
+"106",-97.4438448,32.2859713,"Cleburne CCD","local_jail",478
+"107",-97.9613619,29.6142434,"Seguin CCD","local_jail",465
+"108",-96.5102719,31.6872247,"Mexia CCD","state_pris",442
+"109",-99.0178311,31.6045559,"Brownwood CCD","state_pris",421
+"110",-95.738133,29.5021791,"Rosenberg-Richmond CCD","state_pris",419
+"111",-98.2649456,30.8399436,"Burnet CCD","state_pris",417
+"112",-95.0649056,29.438943,"Texas City-League City CCD","state_pris",417
+"113",-100.4319186,31.4601032,"San Angelo CCD","local_jail",411
+"114",-96.9756324,28.897687,"Victoria CCD","local_jail",409
+"115",-98.2649456,30.8399436,"Burnet CCD","local_jail",407
+"116",-97.8931746,30.049667,"Kyle-Buda CCD","state_pris",388
+"117",-99.1090164,28.8748706,"Pearsall CCD","local_jail",381
+"118",-97.8950395,32.6704891,"Weatherford CCD","local_jail",380
+"119",-101.7919801,35.2351324,"Amarillo CCD","local_jail",371
+"120",-95.8249737,32.206562,"Athens CCD","local_jail",366
+"121",-96.1967636,33.5543462,"Bonham CCD","local_jail",346
+"122",-94.7814649,30.0001881,"Liberty-Dayton CCD","local_jail",339
+"123",-101.8977362,35.0930172,"Amarillo CCD","local_jail",317
+"124",-96.8256524,32.3607705,"Waxahachie CCD","local_jail",306
+"125",-97.2201437,30.1756504,"Bastrop CCD","local_jail",300
+"126",-97.4381222,27.7017677,"Corpus Christi CCD","state_pris",289
+"127",-102.1564079,32.0135361,"Midland CCD","local_jail",288
+"128",-94.7211733,31.3437681,"Lufkin CCD","local_jail",276
+"129",-96.0969009,33.1254747,"Greenville CCD","local_jail",271
+"130",-98.0249882,29.8948633,"San Marcos CCD","local_jail",259
+"131",-96.4059612,30.1643522,"Brenham CCD","state_pris",257
+"132",-96.2903014,32.482044,"Kaufman CCD","local_jail",255
+"133",-100.2629714,28.4918138,"Eagle Pass CCD","local_jail",252
+"134",-98.1904625,29.7588229,"New Braunfels CCD","local_jail",246
+"135",-96.5185032,33.586236,"East Grayson CCD","local_jail",224
+"136",-94.6513633,31.5986644,"Nacogdoches CCD","local_jail",204
+"137",-97.1299772,32.6667392,"Arlington CCD","local_jail",204
+"138",-99.8613872,32.5915678,"Hawley-Noodle CCD","local_jail",200
+"139",-97.125046,27.9898056,"Rockport CCD","local_jail",192
+"140",-97.5779642,28.0224856,"Sinton-Odem CCD","local_jail",190
+"141",-97.5125573,25.9657788,"Brownsville CCD","local_jail",186
+"142",-97.7186568,32.4486424,"Granbury East CCD","local_jail",185
+"143",-96.3469976,30.6458811,"Bryan-College Station CCD","local_jail",184
+"144",-95.2535088,32.8809983,"Winnsboro CCD","state_pris",182
+"145",-96.4386556,32.0535556,"Corsicana CCD","local_jail",179
+"146",-95.6074474,31.7623956,"Palestine CCD","local_jail",176
+"147",-94.8948647,29.2287059,"Galveston CCD","state_pris",172
+"148",-97.6233928,29.9104988,"Lockhart CCD","local_jail",171
+"149",-96.4738136,32.9354543,"Northwest Rockwall CCD","local_jail",167
+"150",-101.7856441,34.1955342,"Plainview CCD","local_jail",160
+"151",-99.0865315,30.0419471,"Kerrville CCD","local_jail",156
+"152",-93.7757556,30.1056423,"Orange CCD","local_jail",151
+"153",-95.5243661,33.6617904,"Paris CCD","local_jail",148
+"154",-97.0800196,31.9855162,"Hillsboro CCD","local_jail",139
+"155",-106.4090295,31.7899233,"El Paso CCD","state_pris",138
+"156",-95.1931185,31.7970129,"Rusk CCD","local_jail",138
+"157",-94.3765896,32.5399187,"Marshall CCD","local_jail",138
+"158",-95.8779346,32.5517388,"Canton CCD","local_jail",134
+"159",-94.6952578,29.6720766,"Anahuac CCD","local_jail",129
+"160",-95.8949906,29.0223482,"Bay City CCD","local_jail",128
+"161",-97.6847383,28.4270428,"Beeville CCD","local_jail",123
+"162",-102.3350117,33.1083848,"Brownfield CCD","local_jail",123
+"163",-97.6262746,27.4532733,"Kingsville CCD","local_jail",120
+"164",-94.6118401,31.9050592,"Mount Enterprise CCD","state_pris",118
+"165",-98.1378941,26.3460448,"Edinburg CCD","fed_pris",117
+"166",-95.6655801,30.7050371,"Huntsville CCD","local_jail",112
+"167",-94.8361971,30.7204527,"Livingston-Onalaska CCD","local_jail",110
+"168",-95.9771016,29.8484628,"Brookshire CCD","state_pris",105
+"169",-98.211194,32.6801684,"Palo Pinto-Santo CCD","local_jail",97
+"170",-102.9811657,31.9034759,"Kermit CCD","local_jail",97
+"171",-101.3891272,35.900545,"Stinnett CCD","local_jail",91
+"172",-96.0741505,29.3371939,"Wharton CCD","local_jail",88
+"173",-96.9731245,30.832445,"Cameron CCD","local_jail",86
+"174",-98.6525013,33.0603982,"Graham CCD","local_jail",85
+"175",-97.701935,31.4329075,"Gatesville CCD","local_jail",84
+"176",-94.3504148,32.9856172,"Linden CCD","local_jail",82
+"177",-96.4059612,30.1643522,"Brenham CCD","local_jail",80
+"178",-102.2927854,34.9551498,"Hereford East CCD","local_jail",79
+"179",-95.5885604,33.1537537,"Sulphur Springs CCD","local_jail",77
+"180",-101.1985034,33.1514982,"Post East CCD","local_jail",75
+"181",-101.0153024,35.4178029,"Pampa CCD","local_jail",74
+"182",-96.0722182,30.0930296,"Hempstead CCD","local_jail",73
+"183",-99.0243921,29.705668,"Bandera CCD","local_jail",72
+"184",-94.4375853,30.7627788,"Woodville CCD","local_jail",72
+"185",-95.3712626,31.3085512,"Crockett CCD","local_jail",70
+"186",-101.4544945,32.1734119,"Big Spring CCD","local_jail",68
+"187",-94.0562518,30.9726344,"Jasper CCD","local_jail",68
+"188",-94.2145471,32.7930387,"Jefferson CCD","local_jail",65
+"189",-97.1911697,29.0933065,"Cuero CCD","local_jail",64
+"190",-98.1569667,33.2988863,"Jacksboro CCD","local_jail",64
+"191",-99.0910375,29.3857818,"Hondo CCD","local_jail",64
+"192",-96.6421115,29.0626289,"Edna-Cordele CCD","local_jail",62
+"193",-98.0982646,27.676852,"Alice CCD","local_jail",62
+"194",-96.5290507,29.7728806,"Columbus CCD","local_jail",61
+"195",-99.7906493,28.7619558,"Crystal City CCD","local_jail",61
+"196",-98.2140957,29.1736838,"Floresville CCD","fed_pris",59
+"197",-97.3313923,29.5144152,"Gonzales CCD","local_jail",59
+"198",-95.4669655,32.8450849,"Quitman CCD","local_jail",57
+"199",-102.833046,34.2110997,"Muleshoe CCD","local_jail",56
+"200",-102.3796457,33.6586659,"Levelland CCD","local_jail",54
+"201",-94.3413137,32.159102,"Carthage CCD","local_jail",54
+"202",-95.1170706,30.5953959,"Coldspring CCD","local_jail",54
+"203",-102.956606,31.5361293,"Monahans CCD","local_jail",54
+"204",-98.8061548,32.417369,"Eastland CCD","local_jail",51
+"205",-97.6321213,33.5863679,"Montague-Forestburg CCD","local_jail",51
+"206",-100.3446966,32.4442471,"Sweetwater CCD","local_jail",49
+"207",-96.6098833,28.5627461,"Port Lavaca CCD","local_jail",48
+"208",-98.2381219,32.2447233,"Stephenville CCD","local_jail",48
+"209",-99.8955722,31.7755768,"Ballinger CCD","local_jail",48
+"210",-97.1898898,32.9009993,"Northeast Tarrant CCD","local_jail",48
+"211",-96.6610715,33.0596357,"Plano CCD","local_jail",46
+"212",-98.0266638,28.194109,"George West CCD","local_jail",46
+"213",-101.8450028,33.2025905,"Tahoka CCD","state_pris",42
+"214",-96.4215296,31.062044,"Franklin CCD","local_jail",41
+"215",-102.2337025,33.9438281,"Littlefield CCD","local_jail",40
+"216",-100.8530504,32.8059799,"Snyder CCD","local_jail",40
+"217",-94.9042211,32.4306806,"Liberty City CCD","local_jail",39
+"218",-101.9507634,35.8079882,"Dumas CCD","local_jail",39
+"219",-96.75878,30.5321712,"Caldwell CCD","local_jail",38
+"220",-102.5246495,36.2599423,"Dalhart CCD","local_jail",38
+"221",-96.8146761,29.4119027,"Hallettsville CCD","local_jail",38
+"222",-96.9291759,30.173879,"Giddings CCD","local_jail",38
+"223",-99.3024746,34.138069,"Vernon CCD","local_jail",38
+"224",-103.4686545,29.6177838,"Alpine CCD","local_jail",36
+"225",-100.2044841,34.4360735,"Childress CCD","local_jail",34
+"226",-98.3259528,29.8525121,"Canyon Lake CCD","local_jail",33
+"227",-101.960725,31.3821866,"Rankin CCD","local_jail",33
+"228",-97.0505127,33.0898169,"Lewisville-Flower Mound CCD","local_jail",32
+"229",-97.6362759,32.0051519,"Meridian CCD","local_jail",31
+"230",-98.7251079,29.8247298,"Boerne CCD","local_jail",31
+"231",-97.4251284,28.7470987,"Goliad North CCD","local_jail",30
+"232",-99.9714441,28.4834113,"Carrizo Springs CCD","local_jail",29
+"233",-95.2197249,33.2138136,"Mount Vernon CCD","local_jail",29
+"234",-94.7264609,33.0054742,"Daingerfield CCD","local_jail",29
+"235",-95.0582889,33.6212937,"Clarksville CCD","local_jail",28
+"236",-96.1227173,31.818496,"Fairfield CCD","local_jail",27
+"237",-95.1758783,29.6803241,"Pasadena CCD","local_jail",27
+"238",-95.8817336,31.2545547,"Centerville CCD","local_jail",27
+"239",-99.8295626,29.3024654,"Uvalde CCD","local_jail",27
+"240",-96.2387129,29.9869813,"Bellville CCD","local_jail",26
+"241",-98.147865,31.1199362,"Lampasas CCD","local_jail",26
+"242",-102.8116725,34.4465616,"Farwell-Bovina CCD","local_jail",26
+"243",-100.4177003,29.3470865,"Brackettville CCD","fed_pris",25
+"244",-98.2313813,33.803534,"Henrietta CCD","local_jail",25
+"245",-95.724355,32.8567125,"Emory CCD","local_jail",25
+"246",-97.2237794,28.4396119,"Refugio CCD","local_jail",25
+"247",-98.6640723,31.9168827,"Comanche CCD","local_jail",23
+"248",-100.851471,32.4152718,"Colorado City CCD","local_jail",21
+"249",-102.4605273,31.2851023,"Crane South CCD","local_jail",20
+"250",-96.8900498,29.9799843,"La Grange CCD","local_jail",20
+"251",-102.7246614,32.6898202,"Seminole CCD","local_jail",20
+"252",-99.3246938,31.0541441,"Brady CCD","local_jail",19
+"253",-100.6921894,36.2592751,"Perryton East CCD","local_jail",18
+"254",-98.1319236,31.6471293,"Hamilton CCD","local_jail",17
+"255",-99.915145,32.7592582,"Anson CCD","local_jail",17
+"256",-98.8234128,32.8477997,"Breckenridge North CCD","local_jail",17
+"257",-98.2431204,27.218891,"Falfurrias CCD","local_jail",16
+"258",-98.7512449,27.2399266,"North Jim Hogg CCD","local_jail",16
+"259",-101.7536489,34.5542087,"Tulia CCD","local_jail",16
+"260",-102.2579754,34.6282253,"Dimmitt CCD","local_jail",14
+"261",-99.7818375,33.6498175,"Benjamin CCD","local_jail",11
+"262",-98.5853305,33.524651,"Archer City CCD","local_jail",10
+"263",-104.8189471,31.0812687,"Van Horn CCD","local_jail",10
+"264",-100.3982035,32.6420058,"Roby CCD","local_jail",10
+"265",-99.5643179,30.4206358,"Junction Southeast CCD","local_jail",10
+"266",-100.6768231,30.6272311,"Sonora CCD","local_jail",10
+"267",-100.871964,34.9790497,"Clarendon CCD","local_jail",9
+"268",-101.1801165,33.6345663,"Crosbyton CCD","local_jail",8
+"269",-99.0735686,28.4216126,"Cotulla CCD","local_jail",8
+"270",-98.7854292,31.0693309,"San Saba CCD","local_jail",8
+"271",-95.2651951,29.3504557,"Alvin-Pearland CCD","local_jail",7
+"272",-100.284128,34.8708675,"Wellington CCD","local_jail",7
+"273",-96.7514645,31.2436526,"Reagan CCD","local_jail",7
+"274",-101.805721,32.2052714,"Stanton CCD","local_jail",7
+"275",-101.4606596,35.4058127,"Panhandle CCD","local_jail",6
+"276",-98.9421064,30.3263898,"Fredericksburg CCD","local_jail",6
+"277",-100.5154557,34.6912741,"Memphis CCD","local_jail",6
+"278",-99.7346331,34.2633663,"Quanah CCD","local_jail",6
+"279",-99.2836099,32.3876139,"Baird CCD","local_jail",5
+"280",-100.7672551,33.6747923,"Dickens CCD","local_jail",5
+"281",-100.106279,30.2021285,"Rocksprings North CCD","local_jail",5
+"282",-99.9472586,30.8948247,"Menard West CCD","local_jail",5
+"283",-102.875892,33.632375,"Morton CCD","local_jail",4
+"284",-100.4637305,35.9436696,"Canadian North CCD","local_jail",4
+"285",-100.2609397,36.1552702,"Higgins CCD","local_jail",4
+"286",-98.5967752,31.3828506,"Goldthwaite CCD","local_jail",4
+"287",-95.2867872,29.0037045,"Brazosport CCD","local_jail",3
+"288",-101.2459948,36.1748546,"Spearman CCD","local_jail",3
+"289",-99.0947687,30.7740574,"Mason East CCD","local_jail",3
+"290",-102.0560684,36.2828371,"Stratford CCD","local_jail",3
+"291",-100.2470735,35.465224,"Wheeler CCD","local_jail",3
+"292",-98.3963962,30.3348318,"Johnson City CCD","local_jail",2
+"293",-101.3011483,35.7197827,"Borger CCD","local_jail",2
+"294",-102.407528,35.4410664,"Vega CCD","local_jail",2
+"295",-95.1696552,31.0555198,"Groveton CCD","local_jail",2
+"296",-97.9609816,28.8454832,"Karnes City CCD","local_jail",1
+"297",-96.1871057,28.6605822,"Palacios CCD","local_jail",1
+"298",-97.1972489,27.8843078,"Aransas Pass-Ingleside CCD","local_jail",1
+"299",-94.9908238,32.7166515,"Gilmer CCD","local_jail",1
+"300",-95.9771016,29.8484628,"Brookshire CCD","local_jail",1
